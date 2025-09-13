@@ -1,0 +1,7 @@
+.flake8
+db.sqlite3
+venv
+commands
+static
+media
+project/local_settings.py
